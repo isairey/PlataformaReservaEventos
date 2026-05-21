@@ -219,7 +219,7 @@ Módulo de despliegue y producción.
 # 📂 Estructura del proyecto
 
 ```bash
-ReactModernApp/
+PlataformaReservaEventos/
 │
 ├── public/
 │   ├── index.html
@@ -328,7 +328,7 @@ Usuario → Interfaz → Componentes → Renderizado → Navegación
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/react-modern-app.git
+git clone https://github.com/isairey/PlataformaReservaEventos.git
 ```
 
 ---
@@ -336,7 +336,7 @@ git clone https://github.com/usuario/react-modern-app.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd ReactModernApp
+cd PlataformaReservaEventos
 ```
 
 ---
@@ -407,27 +407,6 @@ Expone la configuración interna de React Scripts y Webpack.
 
 ---
 
-# 📸 Vista previa
-
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### ⚛️ Interfaz principal
-![MainUI](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1200)
-
-### 📱 Diseño responsive
-![Responsive](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200)
-
-### 📊 Dashboard moderno
-![Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200)
-
-### 🚀 Desarrollo React
-![React](https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=1200)
-
-</div>
-
----
 
 # 👥 Roles del sistema
 
@@ -501,7 +480,7 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## React Frontend Developer
+## Isai Reyes -  React Frontend Developer
 
 Desarrollador apasionado por interfaces modernas, experiencias dinámicas y aplicaciones escalables 🚀
 
