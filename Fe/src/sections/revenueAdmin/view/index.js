@@ -1,0 +1,1 @@
+export { default as RevenueAdminView } from './revenueAdmin-view';

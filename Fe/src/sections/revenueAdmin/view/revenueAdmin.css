@@ -1,0 +1,19 @@
+.adminStatistic {
+    /* display: flex;
+    justify-content: space-between; */
+    animation: showUp 0.45s ease-out;
+  }
+  .cardStatistic {
+    box-shadow: 1px 1px 5px rgb(175, 175, 175);
+    width: fit-content;
+    transition: all 0.14s linear;
+    margin: auto;
+  }
+  .cardStatistic:hover {
+    box-shadow: 2px 2px 12px rgb(152, 152, 152);
+  }
+  .displayGraph {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+  }
